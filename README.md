@@ -39,7 +39,7 @@ Custom AI automation for small businesses — from customer service to internal 
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [AI Content Master](https://github.com/Evgeniy1970-ai/ai-content-scout) | 9× content units per prompt — 3 languages × 3 formats + AI image | n8n · GPT-4o · DALL-E 3 · Telegram |
-| [Restaurant AI Suite](https://github.com/Evgeniy1970-ai/restaurant-ai-suite) | 5 AI agents — reviews, reservations, menu, inventory, food photos | n8n · GPT-4o · DALL-E 3 · Supabase |
+| [Restaurant AI Suite](https://github.com/Evgeniy1970-ai/restaurant-ai-suite) | 7 AI agents — reviews, reservations, menu, inventory, food photos, analysis, voice order | n8n · GPT-4o · DALL-E 3 · Supabase |
 | [CV Screening Agent](https://github.com/Evgeniy1970-ai/CV-Screening-Agent) | 10× faster candidate shortlisting — 3-workflow AI scoring system | n8n · GPT-4o · Google Sheets |
 | [BFS Suite — Big For Small](https://github.com/Evgeniy1970-ai/bfs-suite) | 3-agent RAG platform — Legal, HR & Support with live dashboard | n8n · Claude API · Supabase · pgvector |
 | [AI Lead Gen Agent](https://github.com/Evgeniy1970-ai/AI-Lead-Gen-Production-Full-Workflow_production) | Fully autonomous B2B outreach — discovery to follow-up | n8n · GPT-4o · Google Maps · Gmail |
